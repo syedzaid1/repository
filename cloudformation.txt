@@ -1,0 +1,12 @@
+
+
+{
+    "Resources" : {
+        "HelloBucket1258" : {
+            "Type" : "AWS::S3::Bucket",
+            "Properties" : {
+               "AccessControl" : "PublicRead"               
+            }
+        }
+    }
+}
